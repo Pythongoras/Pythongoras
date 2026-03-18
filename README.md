@@ -1,5 +1,5 @@
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text= &fontSize=40)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Everything+works+on+my+machine;Until+it+doesn't)
