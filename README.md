@@ -2,7 +2,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Everything+works+on+my+machine;Until+it+doesn't)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=乌波不是水跃鱼，这不重要你别急;重点其实不在鱼，我们慢慢再分析;你先冷静别怀疑，这个问题很具体;当你开始能理解，一切已经来不及)
 
 
 
