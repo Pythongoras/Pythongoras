@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yoofay&fontSize=40)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Everything+works+on+my+machine;Until+it+doesn't)
+
+![stats](https://github-readme-stats.vercel.app/api?username=Pythongoras&show_icons=true&theme=tokyonight)
+
 <!--
 **Pythongoras/Pythongoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
